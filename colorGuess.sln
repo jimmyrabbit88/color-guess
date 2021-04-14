@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BF9F75EF-C003-14F6-CF1D-D54FB96A6FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds", "GoogleMobileAds.csproj", "{8F3A3409-B0BB-06AF-85FD-E2D33A6A2AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{A68FED6B-045F-802E-E856-CFE6C0E8F61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{BA2E779A-8D0D-DD98-9B93-3085B946F098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9F75EF-C003-14F6-CF1D-D54FB96A6FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9F75EF-C003-14F6-CF1D-D54FB96A6FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9F75EF-C003-14F6-CF1D-D54FB96A6FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9F75EF-C003-14F6-CF1D-D54FB96A6FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3A3409-B0BB-06AF-85FD-E2D33A6A2AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3A3409-B0BB-06AF-85FD-E2D33A6A2AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3A3409-B0BB-06AF-85FD-E2D33A6A2AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3A3409-B0BB-06AF-85FD-E2D33A6A2AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68FED6B-045F-802E-E856-CFE6C0E8F61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68FED6B-045F-802E-E856-CFE6C0E8F61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68FED6B-045F-802E-E856-CFE6C0E8F61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68FED6B-045F-802E-E856-CFE6C0E8F61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2E779A-8D0D-DD98-9B93-3085B946F098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2E779A-8D0D-DD98-9B93-3085B946F098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2E779A-8D0D-DD98-9B93-3085B946F098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2E779A-8D0D-DD98-9B93-3085B946F098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
